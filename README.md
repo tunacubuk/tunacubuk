@@ -3,11 +3,12 @@
 I am a **Management Information Systems** student passionate about turning raw data into meaningful insights. I focus on **Data Analysis** with Python and have a solid foundation in Web Technologies.
 
 ### 🚀 What I'm Focusing On
-- 🐍 advancing my skills in **Python** for Data Science.
-- 📊 Learning **Data Analysis** and Visualization techniques.
-- 🎨 Crafting user interfaces with **HTML5 & CSS3**.
-- 📈 Preparing myself for a career as a **Data Analyst**.
 
+- 🐍 Advancing my skills in Python for Data Science.
+- 📊 Learning Data Analysis and Visualization techniques.
+- 🎨 Crafting user interfaces with HTML5 & CSS3.
+- 📈 Preparing myself for a career as a Data Analyst.
+  
 ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
